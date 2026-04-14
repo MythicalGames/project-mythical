@@ -4498,7 +4498,7 @@ dependencies = [
  "idna",
  "ipnet",
  "once_cell",
- "rand 0.9.1",
+ "rand 0.9.4",
  "ring 0.17.14",
  "thiserror 2.0.12",
  "tinyvec",
@@ -4541,7 +4541,7 @@ dependencies = [
  "moka",
  "once_cell",
  "parking_lot 0.12.4",
- "rand 0.9.1",
+ "rand 0.9.4",
  "resolv-conf",
  "smallvec",
  "thiserror 2.0.12",
@@ -6941,7 +6941,7 @@ dependencies = [
  "log",
  "pallet-balances",
  "parity-scale-codec",
- "rand 0.9.1",
+ "rand 0.9.4",
  "reqwest 0.11.27",
  "scale-info",
  "serde",
@@ -10557,7 +10557,7 @@ dependencies = [
  "bitflags 2.9.1",
  "lazy_static",
  "num-traits",
- "rand 0.9.1",
+ "rand 0.9.4",
  "rand_chacha 0.9.0",
  "rand_xorshift",
  "regex-syntax 0.8.5",
@@ -10715,7 +10715,7 @@ dependencies = [
  "bytes",
  "getrandom 0.3.3",
  "lru-slab",
- "rand 0.9.1",
+ "rand 0.9.4",
  "ring 0.17.14",
  "rustc-hash 2.1.1",
  "rustls 0.23.28",
@@ -10775,9 +10775,9 @@ dependencies = [
 
 [[package]]
 name = "rand"
-version = "0.9.1"
+version = "0.9.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "9fbfd9d094a40bf3ae768db9361049ace4c0e04a4fd6b359518bd7b73a73dd97"
+checksum = "44c5af06bb1b7d3216d91932aed5265164bf384dc89cd6ba05cf59a35f5f76ea"
 dependencies = [
  "rand_chacha 0.9.0",
  "rand_core 0.9.3",
@@ -16720,7 +16720,7 @@ dependencies = [
  "http 1.3.1",
  "httparse",
  "log",
- "rand 0.9.1",
+ "rand 0.9.4",
  "rustls 0.23.28",
  "rustls-pki-types",
  "sha1",
@@ -18308,7 +18308,7 @@ dependencies = [
  "nohash-hasher",
  "parking_lot 0.12.4",
  "pin-project",
- "rand 0.9.1",
+ "rand 0.9.4",
  "static_assertions",
  "web-time",
 ]
