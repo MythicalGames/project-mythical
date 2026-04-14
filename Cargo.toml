@@ -179,7 +179,7 @@ env_logger = "0.11"
 zombienet-sdk = "0.2.31"
 funder = { git = "https://github.com/paritytech/polkadot-stps", package = "funder", rev = "c45759c60641cb752e7d9718f1c356e6f547c944" }
 stps-config = { git = "https://github.com/paritytech/polkadot-stps", package = "stps-config", rev = "c45759c60641cb752e7d9718f1c356e6f547c944" }
-rand = { version = "0.9.0" }
+rand = { version = "0.9.3" }
 sp-keyring = { git = "https://github.com/paritytech/polkadot-sdk", tag = "polkadot-stable2503-5", default-features = false }
 subxt = { version = "0.41" }
 subxt-core = { version = "0.41" }
